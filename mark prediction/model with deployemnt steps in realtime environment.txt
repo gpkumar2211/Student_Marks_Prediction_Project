@@ -1,0 +1,37 @@
+REAL TIME PROJECT WORK FLOW WITH DEPLOYMENT & FLASK -->
+----------------------------
+
+1- Understand the business case
+
+2- Collect the data
+
+3- Data cleaning
+
+4- Split the data
+
+5- You check overfitt and underfit
+
+6- Traing score & testing score
+
+7- Build the future prediction
+
+8- Joblib data pipeline
+
+9- To the pass this model using pipeline we pickle the lr model
+
+10- Deployment 
+
+11-check weather log files are created or not
+
+******************************
+
+10- Understand the FLASK 
+
+11- FLASK with API (application user interface)
+
+12- Using flask we create the http:// 
+
+13- You will share this file to git or share to your deployment team
+
+
+
